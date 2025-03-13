@@ -20,4 +20,4 @@ jobs:
           cx_client_id: ${{ secrets.CX_CLIENT_ID }}
           cx_client_secret: ${{ secrets.CX_CLIENT_SECRET }}
           branch: main
-          additional_params: --project-groups iso-test
+          roject-groups: iso-test
